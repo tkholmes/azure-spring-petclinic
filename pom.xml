@@ -221,8 +221,8 @@
                 <version>1.4.0</version>
                 <configuration>
                     <!-- Web App information -->
-                    <resourceGroup>petclinicRG</resourceGroup>
-                    <appName>petclinicSpringBoot2</appName>
+                    <resourceGroup>brborgesResourceGroup</resourceGroup>
+                    <appName>petclinicapp19</appName>
 
                     <!-- Java Runtime Stack for Web App on Linux-->
                     <linuxRuntime>tomcat 9.0-jre8</linuxRuntime>
