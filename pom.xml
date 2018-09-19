@@ -222,7 +222,7 @@
                 <configuration>
                     <!-- Web App information -->
                     <resourceGroup>brborgesResourceGroup</resourceGroup>
-                    <appName>petclinicapp19</appName>
+                        <appName>petclinicapp1</appName>
 
                     <!-- Java Runtime Stack for Web App on Linux-->
                     <linuxRuntime>tomcat 9.0-jre8</linuxRuntime>
