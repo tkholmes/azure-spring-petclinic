@@ -30,7 +30,7 @@
         <jacoco.version>0.8.1</jacoco.version>
 
         <!-- skip packaging for normal WAR output -->
-        <spring-boot.repackage.skip>false</spring-boot.repackage.skip>
+        <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
     </properties>
 
     <dependencies>
