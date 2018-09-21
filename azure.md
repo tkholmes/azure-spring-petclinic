@@ -52,7 +52,10 @@ Go to shell.azure.com.
 
 Ensure Azure CLI is in the same subscription as before. 
 
+```shell
 $ mysql -upetclinicadmin@<dbname> -h<dbname>.mysql.database.azure.com -p
+```
+
 
 ```sql
 SQL> create database petclinic;
