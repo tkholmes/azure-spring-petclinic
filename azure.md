@@ -22,10 +22,12 @@ This will create and deploy the web app using App Service Web App for Linux (not
 
 # Enable logs
 
+```shell
 az webapp log config --name <appname> \
   --web-server-logging filesystem
 
 az webapp log tail --name <appname>
+```
 
 # Create MySQL database
 
