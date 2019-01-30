@@ -227,7 +227,6 @@
                     <appName>ffthh-webapp-[YOUR_INITIALS]</appName>
                     <pricingTier>P1V2</pricingTier>
                     <!-- Java Runtime Stack for Web App on Linux-->
-                    <linuxRuntime>tomcat 9.0-jre8</linuxRuntime>
                     <runtime>
                        <os>Linux</os>
                        <javaVersion>jre8</javaVersion>
